@@ -19,4 +19,9 @@ This information allows analyzing sales by date, customer segment and location, 
 
 ### Analysis Dashboard
 
+I created an interactive dashboard that breaks down sales by the main dimensions mentioned earlier:
 
+![image](https://github.com/user-attachments/assets/2c06d7b5-30ec-4cc4-8902-08c99da7e4cb)
+
+* All graphs work as filters activated by a click on the necessary dimension value.
+* The Sales by Region, State, and City graph and the Sales and Profit by Category, Sub-Category, and Product Name graph have a drilldown activated by a click on the necessary category.
